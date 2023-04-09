@@ -1,0 +1,23 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 32px;
+  color: rgb(84, 216, 142);
+  text-align: center;
+  background-color: aliceblue;
+}
+
+li {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: red;
+}
+
+.lasagna {
+  background-color: rgb(84, 216, 142);
+  font-size: 36px;
+  font-weight: 100;
+}
